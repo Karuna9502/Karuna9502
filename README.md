@@ -56,8 +56,8 @@ karuna = {
 
 | # | Project | Tools Used | What I Found |
 |---|---------|-----------|--------------|
-| 1 | 🛒 [Exploratory Data Analysis on Google Play Store Dataset](#) | Jupyter Notebook· Python · Seaborn · Panda · Metabolism | Analyzed distribution of app ratings to understand user satisfaction patterns. Explored app categories to find the most popular and competitive ones.Studied relationships between reviews, installs, and ratings to see what truly drives success. Compared free vs paid apps, understanding how pricing impacts downloads and user engagement.. |
-| 2 | 📈 [Hospital Emergency Room](#) | Excel · Pivot Tables · Dashboard | This is an interactive dashboard built entirely in Excel to analyze and visualize Emergency Room (ER) data. It helps monitor key hospital performance metrics like patient wait time, department referrals, and patient demographics |
+| 1 | 🛒 [Exploratory Data Analysis on Google Play Store Dataset](https://github.com/Karuna9502/GOOGLEPLAYSTORE-EDA/blob/main/Googleplay.ipynb) | Jupyter Notebook· Python · Seaborn · Panda · Metabolism | Analyzed distribution of app ratings to understand user satisfaction patterns. Explored app categories to find the most popular and competitive ones.Studied relationships between reviews, installs, and ratings to see what truly drives success. Compared free vs paid apps, understanding how pricing impacts downloads and user engagement.. |
+| 2 | 📈 [Hospital Emergency Room](https://github.com/Karuna9502/Hospital-Emergency-Room-Dashboard/blob/main/Hospital-project.xlsx) | Excel · Pivot Tables · Dashboard | This is an interactive dashboard built entirely in Excel to analyze and visualize Emergency Room (ER) data. It helps monitor key hospital performance metrics like patient wait time, department referrals, and patient demographics |
 
 
 > 💡 **How to update this:** Replace "Add Your Project Name" with your actual repo names and link them!
