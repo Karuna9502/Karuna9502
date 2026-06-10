@@ -62,21 +62,6 @@ karuna = {
 
 > 💡 **How to update this:** Replace "Add Your Project Name" with your actual repo names and link them!
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karuna9502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karuna9502&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuna9502&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
